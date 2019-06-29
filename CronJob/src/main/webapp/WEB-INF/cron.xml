@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<cronentries>
+  <cron>
+    <url>/sendCron</url>
+   
+    <schedule>every monday 09:00</schedule>
+  </cron>
+  
+  
+</cronentries>
+
+<!-- every 12 hours
+every 5 minutes from 10:00 to 14:00
+2nd,third mon,wed,thu of march 17:00
+every monday 09:00
+1st monday of sep,oct,nov 17:00
+every day 00:00
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
